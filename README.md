@@ -1,3 +1,11 @@
-# wikipedia-viewer
-my project on free code camp
-based on the provided wiki API and jquery
+# 维基百科的查询
+## 功能
+
+![1](http://i1.piimg.com/4851/a03d9306fab2f794.jpg)
+
+* 点击random按钮，随机打开一个维基百科页面，进行阅读
+* 在输入框输入内容，回车或者点击wiki，在下方显示所要查询的条目，点击标题，进入详细描述页面
+
+![2](http://i1.piimg.com/4851/eaba31a5be8c5848.jpg)
+
+* 点击more按钮，显示更多内容
